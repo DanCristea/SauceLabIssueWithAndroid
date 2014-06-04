@@ -1,0 +1,18 @@
+source 'http://rubygems.org'
+#source 'http://sh-qatest02:9292'
+
+ruby '1.9.3'
+
+gem 'rspec'
+gem 'cucumber'
+gem 'watir-webdriver'
+gem 'selenium-webdriver', '~> 2.42.0'
+gem 'appium_lib', '~> 2.1.0'
+#gem 'play', '1.1.27'
+#gem 'activerecord'
+#gem 'ruby-oci8'
+#gem 'activerecord-oracle_enhanced-adapter', '~>1.4.0'
+#gem 'nokogiri'
+#gem 'mechanize', '~> 2.6.0'
+#gem 'mime-types', '~>1.16'
+gem 'rest-client', '~> 1.6.7'
